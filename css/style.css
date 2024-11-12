@@ -1,0 +1,15 @@
+body {
+    font-family: 'Sora', sans-serif;
+    background-color: white;
+}
+
+.graduated-style {
+    font-weight: 800;
+    color: white;
+    text-shadow: 
+        2px 2px 0px black,
+        -2px -2px 0px black, 
+        2px -2px 0px black,
+        -2px 2px 0px black;
+    
+}
